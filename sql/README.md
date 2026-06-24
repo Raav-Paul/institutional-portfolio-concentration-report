@@ -33,8 +33,8 @@ Raw SEC 13F data is loaded from TSV files and joined.
 * Filter managers with >= $1 billion in reported 13F holdings value
 
 **Data Sources:**
-* INFOTABLE — Security details and position values
-* COVERPAGE — Fund name and manager information
+* INFOTABLE - Security details and position values
+* COVERPAGE - Fund name and manager information
 
 ---------------------------------------------------------------------------------
 
@@ -48,10 +48,10 @@ Holdings are weighted as a percentage of total portfolio value and classified by
 * Classify positions into concentration buckets
 
 **Position Buckets:**
-* **Core (>10%)** — Largest positions, highest conviction
-* **High Conviction (5–10%)** — Significant holdings
-* **Medium Conviction (1–5%)** — Moderate exposure
-* **Tail (<1%)** — Small/speculative positions
+* **Core (>10%)** - Largest positions, highest conviction
+* **High Conviction (5–10%)** - Significant holdings
+* **Medium Conviction (1–5%)** - Moderate exposure
+* **Tail (<1%)** - Small/speculative positions
 
 
 ---------------------------------------------------------------------------------
