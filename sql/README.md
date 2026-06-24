@@ -11,8 +11,11 @@ The scripts implement a structured workflow that moves from:
 
 ## Scripts
 [01_load.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/01_load.sql)
+
 [02_staging.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/02_staging.sql)
+
 [03_position_weighting.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/03_position_weighting.sql)
+
 [04_profiling.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/04_profiling.sql)
 
 ---------------------------------------------------------------------------------
@@ -50,10 +53,6 @@ Holdings are weighted as a percentage of total portfolio value and classified by
 * **Medium Conviction (1–5%)** — Moderate exposure
 * **Tail (<1%)** — Small/speculative positions
 
-
-**Portfolio Allocation Summary:**
-
-For each fund, capital allocation and position count are summarized by bucket, with missing buckets filled with zero values to enable consistent analysis while visualizing the data.
 
 ---------------------------------------------------------------------------------
 
