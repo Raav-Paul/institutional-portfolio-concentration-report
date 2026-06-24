@@ -10,7 +10,7 @@
 
 The dashboard evaluates portfolio concentration across institutional investors with more than $1 billion in reported Q4 2025 13F holdings.
 
-It combines market-level benchmarking with manager-level analysis using a Selected Fund vs Institutional Universe framework.
+It combines market-level benchmarking with manager-level reporting using a Selected Fund vs Institutional Universe framework.
 
 Key metrics include:
 
