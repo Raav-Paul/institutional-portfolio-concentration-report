@@ -1,4 +1,4 @@
-# 13F Portfolio Analysis
+# SQL
 
 This folder contains the SQL pipeline used to process, standardize, and analyze
 [SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
