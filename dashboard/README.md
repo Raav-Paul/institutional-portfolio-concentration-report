@@ -52,7 +52,7 @@ Key metrics include:
 - The majority of holdings fall within smaller position-size buckets, reflecting Vanguard's strategy of broad market exposure.
 - Vanguard has **0%** allocated to **CORE (>10%)** positions compared to the market average of **23%**.
 - Approximately **66%** of reported capital is allocated to **TAIL (<1%)** positions, reflecting diversification across a large number of smaller holdings.
-- Their largest position is **Nvidia** valued at approximately **$422.74 billion**.
+- Their largest position is **Nvidia** valued at approximately **$422.74 Billion**.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ Key metrics include:
 - The majority of reported capital is allocated across **TAIL (<1%)**, **MEDIUM-CONVICTION (1%-5%)**, and **HIGH-CONVICTION (5%-10%)** positions.
 - Jane Street has **14%** in **CORE(>10%)** positions compared to the market average of **23%**
 - Approximately **39%** of Jane Street's positions are in **TAIL(<1%)** positions, indicating a diversified tail.
-- Their largest position is SPDR S&P 500 ETF TR at roughly **$95.86B**
+- Their largest position is SPDR S&P 500 ETF TR at roughly **$95.86 Billion**
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -85,6 +85,6 @@ Key metrics include:
 - Average **Top 5 Concentration** is approximately **24.93%**, suggesting that capital is generally distributed across a broad set of holdings rather than concentrated within a small number of dominant positions.
 - Approximately **62%** of reported capital is allocated to **TAIL (<1%)** positions, highlighting the importance of smaller holdings in large institutional portfolios.
 - Only **2%** of reported capital is allocated to **CORE (>10%)** positions, indicating that the largest managers rarely rely on oversized individual positions.
-- Their largest position is **Nvidia** at roughly **$1.48T**
+- Their largest position is **Nvidia** at roughly **$1.48 Trillion**
 
 -----------------------------------------------------------------------------------------------------------------------------
