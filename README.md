@@ -39,14 +39,31 @@ Rather than evaluating performance or generating investment recommendations, the
 - GitHub
 ---------------------------------------------------------------------------------
 
-## Scripts
-[01_load.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/01_load.sql)
+## Dataset
 
-[02_staging.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/02_staging.sql)
+- Source: [SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
+  
+**Coverage:** Institutional managers with more than $1 billion in reported 13F holdings value
+- Records: 3,473,209 & 11372
+- Geographic Context: America
+- Time period covered: Oct-Dec 2025
 
-[03_position_weighting.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/03_position_weighting.sql)
+**Data Sources Include:**
 
-[04_profiling.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/04_profiling.sql)
+* Manager information
+* Security holdings
+* Position values
+* Reported share counts
+
+---------------------------------------------------------------------------------
+
+**Key Metrics Generated:**
+
+* Position Weights
+* Top 5 & Top 10 Concentration
+* Herfindahl-Hirschman Index (HHI)
+* Effective Holdings
+* Conviction Bucket Allocation
 
 ---------------------------------------------------------------------------------
 
@@ -200,4 +217,5 @@ Key metrics include:
 - Their combined largest position is **Nvidia** at roughly **$1.48 Trillion**
 
 -----------------------------------------------------------------------------------------------------------------------------
+
 
