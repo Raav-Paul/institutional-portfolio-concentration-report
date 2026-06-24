@@ -9,6 +9,34 @@ The objective is to build a portfolio construction benchmarking framework that e
 The workflow follows a structured pipeline that moves from:
 **Raw SEC Data > Data Staging > Position Weighting > Portfolio Analytics**
 
+## Project Context:
+
+Form 13F requires institutional investment managers with more than $100 million in qualifying assets to disclose their U.S. equity holdings to the SEC every quarter.
+
+This project focuses on managers with more than **$1 billion in reported 13F holdings value** and uses concentration metrics such as **Effective Holdings, Top Concentration Ratios, Conviction Buckets, and HHI** to evaluate portfolio construction patterns across the institutional landscape.
+
+Rather than evaluating performance or generating investment recommendations, the analysis focuses on how institutional fund managers structure portfolios, distribute capital, and compare against their peers.
+
+
+---------------------------------------------------------------------------------
+
+## Tools Used
+
+- MySQL:
+
+     [01_load.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/01_load.sql)
+  
+     [02_staging.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/02_staging.sql)
+
+     [03_position_weighting.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/03_position_weighting.sql)
+
+     [04_profiling.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/04_profiling.sql)
+
+  
+- Tableau:
+
+     [Institutional Portfolio Concentration.twb](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/58d2141edd0c7de532a713cce69047a23b62ea87/dashboard/Institutional%20Portfolio%20Concentration.twb)
+- GitHub
 ---------------------------------------------------------------------------------
 
 ## Scripts
