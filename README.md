@@ -26,16 +26,16 @@ Rather than evaluating performance or generating investment recommendations, the
 
      [01_load.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/01_load.sql)
   
-     [02_staging.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/02_staging.sql)
+     [02_staging.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/02_staging.sql)
 
-     [03_position_weighting.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/03_position_weighting.sql)
+     [03_position_weighting.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/03_position_weighting.sql)
 
-     [04_profiling.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/04_profiling.sql)
+     [04_profiling.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-/blob/18d3507c5be398fcc6151b784a0ee3b7d25c8330/sql/04_profiling.sql)
 
   
 - Tableau:
 
-     [Institutional Portfolio Concentration.twb](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/58d2141edd0c7de532a713cce69047a23b62ea87/dashboard/Institutional%20Portfolio%20Concentration.twb)
+     [Institutional Portfolio Concentration.twb](https://github.com/Raav-Paul/institutional-portfolio-concentration-/blob/58d2141edd0c7de532a713cce69047a23b62ea87/dashboard/Institutional%20Portfolio%20Concentration.twb)
 - GitHub
 ---------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Rather than evaluating performance or generating investment recommendations, the
 
 - Source: [SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
   
-**Coverage:** Institutional managers with more than $1 billion in reported 13F holdings value
+**Coverage:** Institutional managers with more than $1 billion in ed 13F holdings value
 - Records: 3,473,209 & 11372
 - Geographic Context: America
 - Time period covered: Oct-Dec 2025
@@ -53,7 +53,7 @@ Rather than evaluating performance or generating investment recommendations, the
 * Manager information
 * Security holdings
 * Position values
-* Reported share counts
+* ed share counts
 
 ---------------------------------------------------------------------------------
 
