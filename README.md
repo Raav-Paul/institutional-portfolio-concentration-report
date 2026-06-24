@@ -44,7 +44,7 @@ Rather than evaluating performance or generating investment recommendations, the
 - Source: [SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
   
 **Coverage:** Institutional managers with more than $1 billion in reported 13F holdings value
-- ***Records:***
+- ****Records:****
 - INFOTABLE: 3,473,209 holdings records
 - COVERPAGE: 11,372 filing manager records
 - Geographic Context: America
