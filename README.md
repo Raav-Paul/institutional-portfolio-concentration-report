@@ -38,7 +38,7 @@ Raw SEC 13F data is loaded from TSV files and joined.
 
 ---------------------------------------------------------------------------------
 
-### Position Weighting & Bucketing (Script 03)
+### Position Weighting (Script 03)
 
 Holdings are weighted as a percentage of total portfolio value and classified by concentration level.
 
