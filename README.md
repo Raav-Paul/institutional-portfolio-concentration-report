@@ -129,12 +129,6 @@ Combines all derived metrics:
 
 # Tableau Dashboard
 
-## This folder contains:
-
-- Tableau workbook
-- Dashboard screenshots
-- Interactive portfolio concentration report
-
 ## Dashboard Overview
 
 The dashboard evaluates portfolio concentration across institutional investors with more than $1 billion in reported Q4 2025 13F holdings.
