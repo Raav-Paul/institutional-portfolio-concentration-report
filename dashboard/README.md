@@ -63,15 +63,16 @@ Key metrics include:
 ## Key Insights
 
 - Jane Street reports approximately **$662 billion** in disclosed 13F holdings.
-- Jane Street's share in the overall portfolio is at **0.96%**.
+- Jane Street represents approximately **0.96%** of the total reported holdings value within the report.
 - The portfolio exhibits a low level of diversification with approximately **25 effective holdings**.
 - Top 5 concentration remains relatively balanced compared to many active managers.
-- The majority of holdings are spread out within smaller, medium & high position-size buckets, reflecting Jane Street's strategy of selective market exposure.
+- The majority of reported capital is allocated across **TAIL (<1%)**, **MEDIUM-CONVICTION (1%-5%)**, and **HIGH-CONVICTION (5%-10%)** positions.
 - Jane Street has **14%** in **CORE(>10%)** positions compared to the market average of **23%**
 - Approximately **39%** of Jane Street's positions are in **TAIL(<1%)** positions, indicating a diversified tail.
 - Their largest position is SPDR S&P 500 ETF TR at roughly **$95.86B**
 
 -----------------------------------------------------------------------------------------------------------------------------
+
 
 
 
