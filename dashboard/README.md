@@ -30,7 +30,7 @@ Key metrics include:
 
 ## Key Insights
 
-- The analysis covers **2,280 institutional managers** with more than **$1 billion in reported 13F holdings value**.
+- The report covers **2,280 institutional managers** with more than **$1 billion in reported 13F holdings value**.
 - The average portfolio contains approximately **66 effective holdings**, indicating moderate diversification.
 - The average Top 5 concentration is approximately **42.21%**, suggesting most managers distribute capital across a relatively small set of positions.
 - Reported capital is concentrated among the largest institutions, with the Top 10 managers controlling a substantial **39.5%** share of disclosed 13F equity exposure for Q4 2025.
