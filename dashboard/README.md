@@ -85,6 +85,6 @@ Key metrics include:
 - Average **Top 5 Concentration** is approximately **24.93%**, suggesting that capital is generally distributed across a broad set of holdings rather than concentrated within a small number of dominant positions.
 - Approximately **62%** of reported capital is allocated to **TAIL (<1%)** positions, highlighting the importance of smaller holdings in large institutional portfolios.
 - Only **2%** of reported capital is allocated to **CORE (>10%)** positions, indicating that the largest managers rarely rely on oversized individual positions.
-- Their largest position is **Nvidia** at roughly **$1.48 Trillion**
+- Their combined largest position is **Nvidia** at roughly **$1.48 Trillion**
 
 -----------------------------------------------------------------------------------------------------------------------------
