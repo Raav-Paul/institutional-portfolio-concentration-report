@@ -15,7 +15,7 @@ Form 13F requires institutional investment managers with more than $100 million 
 
 This project focuses on managers with more than **$1 billion in reported 13F holdings value** and uses concentration metrics such as **Effective Holdings, Top Concentration Ratios, Conviction Buckets, and HHI** to evaluate portfolio construction patterns across the institutional landscape.
 
-Rather than evaluating performance or generating investment recommendations, the analysis focuses on how institutional fund managers structure portfolios, distribute capital, and compare against their peers.
+Rather than evaluating performance or generating investment recommendations, the report focuses on how institutional fund managers structure portfolios, distribute capital, and compare against their peers.
 
 
 ---------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ Rather than evaluating performance or generating investment recommendations, the
 - ****Records:****
 - INFOTABLE: 3,473,209 holdings records
 - COVERPAGE: 11,372 filing manager records
-- Geographic Context: America
+- Coverage: U.S. institutional equity holdings
 - Time period covered: Oct-Dec 2025
 
 **Data Sources Include:**
@@ -105,7 +105,7 @@ Holdings are weighted as a percentage of total portfolio value and classified by
 
 ---------------------------------------------------------------------------------
 
-### Portfolio Profiling & Metrics (Script 04)
+### Portfolio Profiling (Script 04)
 
 Portfolio-level concentration and diversification metrics are calculated.
 
