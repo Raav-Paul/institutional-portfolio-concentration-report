@@ -9,7 +9,7 @@ This folder contains the SQL pipeline used to clean, transform, and analyze the
 
 --------------------------------------
 
-# Main Script
+# Scripts
 [01_data_load.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/9cbc0bd57e5fbbbf422f642107bd960d2b03539f/sql/01_data_load.sql)
 
 [02_analysis.sql](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/9cbc0bd57e5fbbbf422f642107bd960d2b03539f/sql/02_analysis.sql)
