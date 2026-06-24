@@ -73,7 +73,18 @@ Key metrics include:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+### Top 10 Funds
 
+![Top 10 Funds](https://github.com/Raav-Paul/institutional-portfolio-concentration-report/blob/b4370e1cc187a22a5f05154431141e99b8567ba9/dashboard/Top%2010%20Funds.png)
 
+## Key Insights
+
+- The Top 10 institutional managers collectively report approximately **$27.3 trillion** in disclosed 13F holdings.
+- Together, these managers account for approximately **39.5%** of all reported holdings value within the report.
+- The average portfolio contains approximately **58 effective holdings**, indicating a relatively diversified portfolio structure despite their size.
+- Average **Top 5 Concentration** is approximately **24.93%**, suggesting that capital is generally distributed across a broad set of holdings rather than concentrated within a small number of dominant positions.
+- Approximately **62%** of reported capital is allocated to **TAIL (<1%)** positions, highlighting the importance of smaller holdings in large institutional portfolios.
+- Only **2%** of reported capital is allocated to **CORE (>10%)** positions, indicating that the largest managers rarely rely on oversized individual positions.
+- Their largest position is **Nvidia** at roughly **$1.48T**
 
 -----------------------------------------------------------------------------------------------------------------------------
