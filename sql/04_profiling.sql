@@ -1,11 +1,3 @@
--- Total Funds
-CREATE TABLE fund_totals AS SELECT fund_name, SUM(position_value) AS portfolio_value FROM
-    infotable_clean
-GROUP BY fund_name
-HAVING SUM(position_value) >= 1000000000;
-
----------------------------------------------------------------------------------
-
 -- Herfindahl-Hirschman Index 
 CREATE TABLE herfindahl_hirschman_index AS
 SELECT

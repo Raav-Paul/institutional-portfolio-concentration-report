@@ -16,3 +16,12 @@ CREATE TABLE infotable_clean AS SELECT FILINGMANAGER_NAME AS fund_name,
 WHERE
     VALUE IS NOT NULL AND VALUE > 0
 GROUP BY FILINGMANAGER_NAME , NAMEOFISSUER;
+
+---------------------------------------------------------------------------------
+
+-- Total Funds
+CREATE TABLE fund_totals AS SELECT fund_name, SUM(position_value) AS portfolio_value FROM
+    infotable_clean
+GROUP BY fund_name
+HAVING SUM(position_value) >= 1000000000;
+
