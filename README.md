@@ -1,10 +1,11 @@
-# 13F Portfolio Analysis
+# Institutional Portfolio Concentration Report
 
-This folder contains the SQL pipeline used to process, standardize, and analyze
-[SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
+## Overview
 
-The scripts implement a structured workflow that moves from:
+This project analyzes portfolio concentration across U.S. institutional investors using Q4 2025 SEC Form 13F filings [SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
+The objective is to build a portfolio construction benchmarking framework that evaluates how institutional managers allocate capital and compares individual funds against the broader report.
 
+The workflow follows a structured pipeline that moves from:
 **Raw SEC Data > Data Staging > Position Weighting > Portfolio Analytics**
 
 ---------------------------------------------------------------------------------
