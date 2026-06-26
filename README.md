@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project reports portfolio concentration across U.S. institutional investors using Q4 2025 SEC Form 13F filings [SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
+This project reports portfolio concentration across U.S. institutional investors using [Q4 2025 SEC Form 13F investment holdings data](https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets).
 
 The objective is to build a portfolio construction benchmarking framework that evaluates how institutional managers allocate capital and compares individual funds against the broader report.
 
